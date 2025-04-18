@@ -17,7 +17,7 @@ This project was created to practice layout design, CSS animations, and responsi
 
 ## 📸 Screenshots
 
-![Amazon Clone Screenshot]![Screenshot](https://github.com/user-attachments/assets/3ad04c50-2b84-4af0-b62c-a84fe814a06e)
+**Amazon Clone Screenshot**[Screenshot](https://github.com/user-attachments/assets/3ad04c50-2b84-4af0-b62c-a84fe814a06e)
  <!-- Replace with actual image if you have -->
 
 ---
